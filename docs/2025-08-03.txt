@@ -1,5 +1,5 @@
 Título: El mensaje del viajero
-Imagen: https://i.imgur.com/t6NUsYx.jpg
+Imagen: images/default.png
 
 Un día, un viajero llegó a una aldea lejana con una historia que tocó los corazones de todos.
 
