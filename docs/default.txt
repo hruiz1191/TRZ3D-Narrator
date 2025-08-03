@@ -1,5 +1,5 @@
 Título: Bienvenido a TRZ3D Narrador
-Imagen: https://i.imgur.com/t6NUsYx.jpg
+Imagen: images/default.png
 
 Este es un ejemplo de narración interactiva con resaltado palabra por palabra.
 
