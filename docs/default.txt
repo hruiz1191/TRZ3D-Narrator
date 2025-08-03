@@ -1,0 +1,14 @@
+Título: Bienvenido a TRZ3D Narrador
+Imagen: https://i.imgur.com/t6NUsYx.jpg
+
+Este es un ejemplo de narración interactiva con resaltado palabra por palabra.
+
+Con TRZ3D Narrador puedes:
+
+- Leer historias o cuentos con una voz automática.
+- Ver cómo se resalta el texto a medida que se narra.
+- Compartir fácilmente tus narraciones favoritas.
+
+Este archivo es solo una muestra. Puedes crear tus propios archivos de texto con un título, una imagen y el contenido que desees.
+
+Explora. Escucha. Comparte. ¡Bienvenido al futuro de la lectura digital!
