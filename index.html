@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TRZ3D Narrator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="container">
+    <img id="bg-image" src="images/default.jpg" alt="Background" />
+    <div id="controls">
+      <h1 id="titulo">Cargando...</h1>
+
+      <div id="text-wrapper">
+        <div id="texto"><span>Espera por favor...</span></div>
+      </div>
+
+      <div id="buttons">
+        <button id="playBtn" onclick="toggleLectura()">▶️ Play</button>
+      </div>
+
+      <div id="share-buttons">
+        <button onclick="share('whatsapp')" title="WhatsApp">
+            <img src="icons/whatsapp.png" alt="WhatsApp" width="64" height="64" />
+        </button>
+        <button onclick="share('facebook')" title="Facebook">
+            <img src="icons/facebook.png" alt="Facebook" width="64" height="64" />
+        </button>
+        <button onclick="share('twitter')" title="Twitter">
+            <img src="icons/twitter.png" alt="Twitter" width="64" height="64" />
+        </button>
+        <button onclick="share('messenger')" title="Messenger">
+            <img src="icons/messenger.png" alt="Messenger" width="64" height="64" />
+        </button>
+        <button onclick="share('reddit')" title="Reddit">
+            <img src="icons/reddit.png" alt="Reddit" width="64" height="64" />
+        </button>
+        <button onclick="share('telegram')" title="Telegram">
+            <img src="icons/telegram.png" alt="Telegram" width="64" height="64" />
+        </button>
+        <button onclick="share('linkedin')" title="LinkedIn">
+            <img src="icons/linkedin.png" alt="LinkedIn" width="64" height="64" />
+        </button>
+        <button onclick="share('email')" title="Email">
+            <img src="icons/email.png" alt="Email" width="64" height="64" />
+        </button>
+        <button onclick="copyLink()" title="Copiar Link">
+            <img src="icons/copy.png" alt="Copy" width="64" height="64" />
+        </button>
+        </div>
+
+
+    <footer>
+      Hecho con 💙 por <a href="https://trz3d.com" target="_blank">TRZ3D</a>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
